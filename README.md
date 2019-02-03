@@ -1,3 +1,3 @@
 # GeoBrava
-GeoBrava Media Applications
+GeoBrava Media Applications - 
 Transmedia Newswire project located at https://geobrava.wordpress.com/
